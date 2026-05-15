@@ -23,12 +23,26 @@ Senior Data Associate at Amazon with 4+ years of experience architecting and dep
 
 ### 📈 Visualization
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uddeshya18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=uddeshya18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uddeshya18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uddeshya18&theme=2077&show_icons=true" alt="Uddeshya's Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uddeshya18&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddeshya18&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=uddeshya18&icon=0&color=7)](https://visitcount.itsvg.in)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uddeshya18&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
