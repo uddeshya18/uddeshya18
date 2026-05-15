@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Senior Data Associate at Amazon with 4+ years of experience architecting and deploying end-to-end ML pipelines. Specialist in Time-Series Forecasting, Predictive Modeling, and MLOps using the AWS ecosystem (SageMaker, Bedrock, Glue). Proven track record of transforming high-volume operational data into automated inference systems, integrating LLMs and RAG architectures to drive multi-million-dollar efficiency gains in global retail operations.<br>
 
 
@@ -24,7 +24,7 @@ Senior Data Associate at Amazon with 4+ years of experience architecting and dep
 ### 📈 Visualization
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uddeshya18&theme=2077&show_icons=true" alt="Uddeshya's Stats" />
