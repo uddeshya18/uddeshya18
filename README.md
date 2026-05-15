@@ -1,9 +1,10 @@
 # About Me:
 Senior Data Associate at Amazon with 4+ years of experience architecting and deploying end-to-end ML pipelines. Specialist in Time-Series Forecasting, Predictive Modeling, and MLOps using the AWS ecosystem (SageMaker, Bedrock, Glue). Proven track record of transforming high-volume operational data into automated inference systems, integrating LLMs and RAG architectures to drive multi-million-dollar efficiency gains in global retail operations.<br>
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uddeshya-poddar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uddeshyapoddar1@gmail.com) 
+<br><br>
 
 # 💻 Tech Stack:
 ### 🤖 AI & Machine Learning
@@ -24,22 +25,38 @@ Senior Data Associate at Amazon with 4+ years of experience architecting and dep
 ### 📈 Visualization
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+<br><br>
+
+
+
+| Project | Domain | Key Architecture & Technical Highlights |
+| :--- | :--- | :--- |
+| 🌐 **[Ops Global Load Balancer](https://github.com/uddeshya18/ops-global-load-balancer)** | Operations Suite (Macro) | Real-time load distribution engine built with **Streamlit** to balance queue health and maintain multi-site SLA parity. |
+| 🧮 **[Workforce Capacity Engine](https://github.com/uddeshya18/workforce-capacity-engine)** | Operations Suite (Micro) | Localized staffing modeler utilizing **95th-percentile trimmed-mean** math to eliminate resource noise and variance by 15%. |
+| 📈 **[Demand Forecast Simulator](https://github.com/uddeshya18/demand-forecast-simulator)** | Operations Suite (Predictive) | Look-ahead volume projection and "What-If" risk modeling engine utilizing historical trend-line parsing. |
+| 🤖 **[Agentic AI Chatbot](https://github.com/uddeshya18/Chatbot)** | Generative AI | Stateful conversational agent built with **LangGraph**, utilizing dynamic real-time web search and a persistent **SQLite** layer. |
+| 🦜 **[LangChain Learning Hub](https://github.com/uddeshya18/langchain-learning)** | AI Infrastructure | A centralized monorepo mapping core LLM orchestration to advanced cloud-decoupled serverless inference via **Hugging Face API**. |
+
+<br><br>
+
 # GitHub Stats:
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uddeshya18&theme=2077&show_icons=true" alt="Uddeshya's Stats" />
 </p>
+<br><br>
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uddeshya18&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+<br><br>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddeshya18&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
-
+<br><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uddeshya18&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
